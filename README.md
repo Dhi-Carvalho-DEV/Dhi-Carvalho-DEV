@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/Dhi-Carvalho-DEV.png" alt="Employee data" width="100" height="100" title=Dhi Carvalho>
-
 # Dhi Carvalho
 
 </div>
